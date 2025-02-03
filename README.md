@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lovish12222590
 - 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning python and HTML
-- 💞️ Pursuing BTech from LPU,Punjab
+- 🎧 Pursuing BTech from LPU,Punjab
 - 📫 lovishyadav23@gmail.com
 
 <!---
