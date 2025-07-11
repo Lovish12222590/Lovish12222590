@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lovish12222590
-- 👀 I’m interested in coding and playing games
-- 🎧 Pursuing BTech from LPU,Punjab
+- 🌺 Hey, I'm Lovish Yadav
+- 📚 Pursuing BTech in Computer Science from Lovely Professional University
+- 🎸 Aspiring Data Analyst and Coder
 - 📫 lovishyadav23@gmail.com
 
 <!---
